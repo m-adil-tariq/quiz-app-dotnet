@@ -1,0 +1,25 @@
+# Build output
+QuizApp/bin/
+QuizApp/obj/
+
+# Visual Studio files
+.vs/
+QuizApp/.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docview
+
+# NuGet packages (restoreable)
+packages/
+
+# Visual Studio Visualizers
+Visual Studio 2022/
+
+# Database log files
+*.ldf
+
+# Compiled binaries
+*.exe
+*.pdb
+*.dll
