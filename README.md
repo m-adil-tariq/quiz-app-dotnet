@@ -56,7 +56,7 @@ Database/DB scheme.sql
 
 ### 2. Configure the Connection String
 
-Open `QuizApp/App.config` and update the connection string to match your SQL Server instance:
+Open `QuizApp/App.config` and at all other places where conn string is written and update the connection string to match your SQL Server instance:
 
 ```xml
 <connectionStrings>
@@ -86,7 +86,7 @@ Replace `YOUR_SERVER_NAME` with your machine name or use `.` for the default loc
 
 | Role | Username | Password |
 |------|----------|----------|
-| Admin | `admin` | `admin` |
+| Admin | `admin` | `admin123` |
 
 Student accounts are created by the admin through the application.
 

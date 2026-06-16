@@ -138,8 +138,7 @@ end;
 
 -- 1. Insert Admins
 INSERT INTO admin_auth (ad_user, ad_password) VALUES
-('admin', 'admin123'),
-('john_doe', 'pass456');
+('admin', 'admin123');
 
 -- 2. Insert Students (referencing admin IDs 1 and 2)
 INSERT INTO student (std_name, std_batchcode, std_password, std_ad_id) VALUES
