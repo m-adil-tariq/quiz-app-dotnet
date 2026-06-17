@@ -2,6 +2,8 @@
 
 A full-stack desktop quiz application built with C# .NET WinForms and SQL Server, featuring role-based access for admins and students.
 
+https://github.com/user-attachments/assets/780cc046-ae32-4de6-a4f5-af1c581d0f78
+
 ---
 
 ## Features
